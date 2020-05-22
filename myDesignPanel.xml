@@ -1,0 +1,9 @@
+<DesignPanel>
+	<JComboBox> Countries: </JComboBox>
+	<JSpinner> Numbers: </JSpinner>
+	<JTextField> Name: </JTextField>
+	<JButton> CLICK </JButton>
+	<JButton> ADD </JButton>
+	<JButton> SET </JButton>
+	<JSpinner> Age: </JSpinner>
+</DesignPanel>
